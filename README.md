@@ -44,13 +44,13 @@ class Movie_DB(models.Model):
     Release_Date = models.DateField()
     Poster_URL = models.URLField(max_length=200)
 
-    def __str__(self):
+    def _str_(self):
         return self.Title
 ```
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-09-23 003956.png>)
+![Uploading WhatsApp Image 2025-10-07 at 20.32.30_70244aae.jpg…]()
 
 
 
