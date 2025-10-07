@@ -49,8 +49,8 @@ class Movie_DB(models.Model):
 ```
 
 ## OUTPUT
+![screenshot ](https://github.com/user-attachments/assets/40ffad6f-3c8d-45d0-ac3d-4debf93ece12)
 
-![Uploading WhatsApp Image 2025-10-07 at 20.32.30_70244aae.jpg…]()
 
 
 
